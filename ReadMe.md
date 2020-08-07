@@ -12,5 +12,5 @@ $$
 题目链接: https://adworld.xctf.org.cn/task/answer?type=reverse\&number=4\&grade=1\&id=4881\&page=1
 $$
 
-![第一题](https://latex.codecogs.com/png.latex?\\Problem1 = \begin{bmatrix}Name: hackme \\Difficulty Factor.: 2.0 \\Origin: XCTF 3rd-GCTF-2017 \\Time Spent: 26 mins 18 secs\end{bmatrix})
+![第一题](https://latex.codecogs.com/png.latex?\\Problem1=\begin{bmatrix}Name:hackme\\DifficultyFactor:2.0\\Origin:XCTF-3rd-GCTF-2017\\TimeSpent:26mins18secs\end{bmatrix})
 
