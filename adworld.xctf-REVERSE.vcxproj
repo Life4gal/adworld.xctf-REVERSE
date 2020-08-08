@@ -18,12 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="001-hackme\code.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="002-Guess-the-Number\Code.java" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
