@@ -33,3 +33,15 @@
 ​	原题链接:[传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5031&page=1)
 
 ​	吐槽: 一眼看过去全是 std: :__ cxx11: :basic_string<char, std: :char_ traits<char>, std: :allocator<char>>, 我都要吐了.....
+
+#### 第四题: 666
+
+​	难度系数: 2.0
+
+​	题目来源: 2019_UNCTF
+
+​	用时: 18分17秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5573&page=1)
+
+​	吐槽: 终于见一次反汇编出来的代码这么少的了...
