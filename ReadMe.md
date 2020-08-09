@@ -82,3 +82,16 @@
 
 ​	吐槽: 下载的文件被谷歌浏览器拦截,搞得我浪费很多时间,丢人!
 
+#### 第八题: re-for-50-plz-50
+
+​	难度系数: 2.0
+
+​	题目来源: tu-ctf-2016
+
+​	用时: 12分24秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4952&page=1)
+
+​	吐槽: 完全看不懂的汇编代码,挣扎了10分钟放弃了,吐了...(附截图)
+
+![re-for-50-plz-50](.\008-re-for-50-plz-50\过程.png)
