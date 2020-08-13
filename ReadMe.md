@@ -126,3 +126,16 @@
 
 由于有源代码,我们可以很容易得到结果.
 
+#### 第十一题: secret-galaxy-300
+
+​	难度系数: 2.0
+
+​	题目来源: school-ctf-winter-2015
+
+​	用时: 8分16秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4707&page=1)
+
+​	吐槽: 好家伙,答案居然不在主逻辑里,还好我眼尖发现其他有地方的引用
+
+![引用](./011-secret-galaxy-300/截图/3.png)
