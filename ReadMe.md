@@ -161,3 +161,15 @@
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5480&page=1)
 
 ​	吐槽: 题目很简单,主要是和别人吐槽了很久.题目描述是[有一天，一个论坛老鸟给小明发了一个神秘的盒子，里面有开启逆向思维的秘密。],一看程序居然是百度的图标,好家伙,一点没骗我.....
+
+#### 第十四题: answer_to_everything
+
+​	难度系数: 2.0
+
+​	题目来源: 2019_ISCC
+
+​	用时: 5分43秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5511&page=1)
+
+​	吐槽: 啊哈,我知道了是42,但是这个答案的问题是什么呢?
