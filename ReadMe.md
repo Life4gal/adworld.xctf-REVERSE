@@ -140,6 +140,14 @@
 
 ![引用](./011-secret-galaxy-300/截图/3.png)
 
+#### 第十二题: srm-50
 
+​	难度系数: 2.0
+
+​	题目来源: suctf-2016
+
+​	用时: 10分35秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4963&page=1)
 
 
