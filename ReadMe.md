@@ -173,3 +173,15 @@
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5511&page=1)
 
 ​	吐槽: 啊哈,我知道了是42,但是这个答案的问题是什么呢?
+
+#### 第十五题: elrond32
+
+​	难度系数: 2.0
+
+​	题目来源: tinyctf-2014
+
+​	用时: 14分4秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4750&page=1)
+
+​	
