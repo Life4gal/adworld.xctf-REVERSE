@@ -193,3 +193,17 @@
 ​	用时: 4分57秒
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4751&page=1)
+
+#### 第十七题: re4-unvm-me
+
+​	难度系数: 2.0
+
+​	题目来源: alexctf-2017
+
+​	用时: 15分44秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5033&page=1)
+
+​	吐槽: 欺负我不会 python ? (编码用的 UTF-16, 用 IDLE 打不开, 用 np++ 打开才知道)
+
+![反编译](./017-re4-unvm-me/截图/反编译.png)
