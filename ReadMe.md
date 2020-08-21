@@ -227,3 +227,16 @@
 ​	用时: 21分30秒
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4590&page=1)
+
+#### 第二十题: 流浪者
+
+​	难度系数: 2.0
+
+​	题目来源: 无
+
+​	用时: 32分34秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5570&page=1)
+
+​	吐槽: 主函数分析倒是不难,找主函数花点时间...
+
