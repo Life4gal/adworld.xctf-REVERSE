@@ -240,3 +240,15 @@
 
 ​	吐槽: 主函数分析倒是不难,找主函数花点时间...
 
+#### 第二十一题: EasyRE
+
+​	难度系数: 2.0
+
+​	题目来源: 无
+
+​	用时: 21分55秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5446&page=1)
+
+
+
