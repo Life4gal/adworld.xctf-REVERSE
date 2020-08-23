@@ -425,3 +425,6 @@ static decrypt(from,size,key){
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5476&page=2)
 
 ​	吐槽: fxxk!!!(发出了喜欢base加密的声音)
+
+
+
