@@ -276,3 +276,14 @@
 
 ![结果](./023-simple-check-100/截图/结果.png)
 
+#### 第二十四题: debug
+
+​	难度系数: 3.0
+
+​	题目来源: XCTF 3rd-GCTF-2017
+
+​	用时: 9分22秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4880&page=2)
+
+​	吐槽: 可恶,什么时候我在电脑上装了个 dnSpy ???
