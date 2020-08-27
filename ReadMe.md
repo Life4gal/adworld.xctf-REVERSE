@@ -320,3 +320,13 @@ static decrypt(from,size,key){
 
 ![主函数伪代码](./025-BABYRE/截图/主函数伪代码.png)
 
+#### 第二十六题: EASYHOOK
+
+​	难度系数: 3.0
+
+​	题目来源: XCTF 4th-WHCTF-2017
+
+​	用时: 18分48秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4664&page=2)
+
