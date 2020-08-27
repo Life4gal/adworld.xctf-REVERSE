@@ -250,8 +250,6 @@
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5446&page=1)
 
-
-
 #### 第二十二题: SignIn
 
 ​	难度系数: 2.0
@@ -264,4 +262,17 @@
 
 ​	吐槽: 这道题不应该放在 [逆向] 栏中,应该放在 [PWN] 栏,毕竟flag也是**suctf{Pwn_@_hundred_years}**.内容大概是用几个函数进行了 **RSA** 加密,部分属于我的知识盲区(我承认我当时偷懒了...下次还偷懒) ....
 
+#### 第二十三题: simple-check-100
+
+​	难度系数: 2.0
+
+​	题目来源: school-ctf-winter-2015
+
+​	用时: 27分16秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4709&page=1)
+
+​	吐槽: 可恶啊,OD 调试一遍, patch 一下程序,结果 windows 输出是乱码, 又用 IDA 调试了一遍,到虚拟机上跑就可以了...
+
+![结果](./023-simple-check-100/截图/结果.png)
 
