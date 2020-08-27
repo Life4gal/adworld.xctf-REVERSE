@@ -287,3 +287,36 @@
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4880&page=2)
 
 ​	吐槽: 可恶,什么时候我在电脑上装了个 dnSpy ???
+
+#### 第二十五题: BABYRE
+
+​	难度系数: 3.0
+
+​	题目来源: XCTF 4th-WHCTF-2017
+
+​	用时: 38分10秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4662&page=2)
+
+​	吐槽: 欺负我不会 gdb 调试?程序对主函数进行了加密,导致静态调试有一些麻烦,但是 IDA 大法好!!!!!!!!(破音)
+
+![加密](./025-BABYRE/截图/主函数被加密.png)
+
+```c++
+// 见 025-BABYRE/patch.idc
+#include<idc.idc>
+static decrypt(from,size,key){
+    auto i,x;
+    for(i=0;i<=size;i++){
+        x = Byte(from);
+        x = (x^key);
+        PatchByte(from,x);
+        from = from + 1;
+    }
+}
+```
+
+![patch](./025-BABYRE/截图/patch.png)
+
+![主函数伪代码](./025-BABYRE/截图/主函数伪代码.png)
+
