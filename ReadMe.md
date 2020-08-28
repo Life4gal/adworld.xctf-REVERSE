@@ -330,3 +330,16 @@ static decrypt(from,size,key){
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4664&page=2)
 
+#### 第二十七题: crackme
+
+​	难度系数: 3.0
+
+​	题目来源: SHCTF-2017
+
+​	用时: 33分31秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4966&page=2)
+
+​	吐槽: 加了个壳, **nSPack 3.7 -> North Star/Liu Xing Ping**,这可出大事了,我不会脱壳...那没办法咯,只能下断点慢慢找,功夫不负有心人,还真给我找着了.不过由于没有脱壳,每次运行程序地址都会变化(所以上次下的断下次运行就不对了),所以没有patch程序...
+
+![主函数](./027-crackme/截图/主函数.png)
