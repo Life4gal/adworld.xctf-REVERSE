@@ -26,8 +26,8 @@ int main()
 	char sequence[17] = "this_is_not_flag";
 	int flag[42];
 
-	// 这里是测试 ecx 的增加方式,因为 eax 是作为下标并且一直到 42 (0x2A)的,但是 sequence 有效长度只有 16
-	// 没测试出什么结果,但是按道理他的下标需要对 16 取模才对
+	// 这是模拟两段字符逐个比较的汇编代码段
+	// 其中 eax 是 mask & flag 的下标, ecx 是 sequence 的下标
 	__asm
 	{
 		push eax
@@ -36,7 +36,7 @@ int main()
 		xor eax, eax
 	L1:
 		mov ecx, eax
-		and ecx, 0x8000000F
+		and ecx, 0x8000000F		// 这个运算就相当于令 ecx 对 0xF(16) 取模
 		jns L2
 		dec ecx
 		or ecx, 0xFFFFFFF0
