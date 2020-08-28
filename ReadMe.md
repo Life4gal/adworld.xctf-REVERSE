@@ -343,3 +343,15 @@ static decrypt(from,size,key){
 ​	吐槽: 加了个壳, **nSPack 3.7 -> North Star/Liu Xing Ping**,这可出大事了,我不会脱壳...那没办法咯,只能下断点慢慢找,功夫不负有心人,还真给我找着了.不过由于没有脱壳,每次运行程序地址都会变化(所以上次下的断下次运行就不对了),所以没有patch程序...
 
 ![主函数](./027-crackme/截图/主函数.png)
+
+#### 第二十八题: crazy
+
+​	难度系数: 3.0
+
+​	题目来源: 百越杯2018
+
+​	用时: 25分23秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5509&page=3)
+
+​	吐槽: 这下谁都知道你玩 **星际争霸(Star Craft)** 了...(看C艹的题目真的好伤眼睛...)
