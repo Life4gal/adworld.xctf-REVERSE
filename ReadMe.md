@@ -359,4 +359,3 @@ static decrypt(from,size,key){
 ​	追加吐槽: HighTemplar == 高阶圣堂武士 == 闪电, DarkTemplar == 黑暗圣堂武士 == 影刀
 
 
-
