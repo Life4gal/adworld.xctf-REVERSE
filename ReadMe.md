@@ -367,3 +367,15 @@ static decrypt(from,size,key){
 ​	用时: 21分25秒
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5565&page=1)
+
+#### 第三十题: gametime
+
+​	难度系数: 3.0
+
+​	题目来源: csaw-ctf-2016-quals
+
+​	用时: 22分57秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5005&page=3)
+
+​	吐槽: 一顿分析猛如虎,结果还不是暴力跳转....
