@@ -358,4 +358,12 @@ static decrypt(from,size,key){
 
 ​	追加吐槽: HighTemplar == 高阶圣堂武士 == 闪电, DarkTemplar == 黑暗圣堂武士 == 影刀
 
+#### 第二十九题: Replace
 
+​	难度系数: 2.0
+
+​	题目来源: 湖湘杯2018
+
+​	用时: 21分25秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5565&page=1)
