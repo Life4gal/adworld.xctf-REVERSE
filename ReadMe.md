@@ -379,3 +379,6 @@ static decrypt(from,size,key){
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5005&page=3)
 
 ​	吐槽: 一顿分析猛如虎,结果还不是暴力跳转....
+
+
+
