@@ -380,4 +380,12 @@ static decrypt(from,size,key){
 
 ​	吐槽: 一顿分析猛如虎,结果还不是暴力跳转....
 
+#### 第三十一题: ReverseMe-120
 
+​	难度系数: 2.0
+
+​	题目来源: 无
+
+​	用时: 27分24秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4825&page=2)
