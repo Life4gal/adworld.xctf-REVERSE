@@ -389,3 +389,15 @@ static decrypt(from,size,key){
 ​	用时: 27分24秒
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4825&page=2)
+
+#### 第三十二题: serial-150
+
+​	难度系数: 3.0
+
+​	题目来源: suctf-2016
+
+​	用时: 35分21秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4962&page=2)
+
+​	吐槽: 应该算第一次用IDA远程调试吧,虽然不如OD顺手,但是谁叫我不会GDB呢:disappointed:
