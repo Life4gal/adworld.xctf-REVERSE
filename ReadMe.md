@@ -401,3 +401,15 @@ static decrypt(from,size,key){
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4962&page=2)
 
 ​	吐槽: 应该算第一次用IDA远程调试吧,虽然不如OD顺手,但是谁叫我不会GDB呢:disappointed:
+
+#### 第三十三题: secret-string-400
+
+​	难度系数: 3.0
+
+​	题目来源: school-ctf-winter-2015
+
+​	用时: 36分31秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4708&page=2)
+
+​	吐槽: 你们管这叫逆向?好家伙,我直接现学了一遍 JavaScript...
