@@ -413,3 +413,15 @@ static decrypt(from,size,key){
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4708&page=2)
 
 ​	吐槽: 你们管这叫逆向?好家伙,我直接现学了一遍 JavaScript...
+
+#### 第三十四题: testre
+
+​	难度系数: 3.0
+
+​	题目来源: 2019_西湖论剑_预选赛
+
+​	用时: 43分9秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5476&page=2)
+
+​	吐槽: fxxk!!!(发出了喜欢base加密的声音)
