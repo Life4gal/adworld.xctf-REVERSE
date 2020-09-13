@@ -426,3 +426,12 @@ static decrypt(from,size,key){
 
 ​	吐槽: fxxk!!!(发出了喜欢base加密的声音)
 
+#### 第三十五题: reverse-for-the-holy-grail-350
+
+​	难度系数: 3.0
+
+​	题目来源: tu-ctf-2016
+
+​	用时: 37分1秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4953&page=2)
