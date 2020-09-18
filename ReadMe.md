@@ -436,7 +436,7 @@ static decrypt(from,size,key){
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4953&page=2)
 
-#### 第三十六题:Windows_Reverse2
+#### 第三十六题: Windows_Reverse2
 
 ​	难度系数: 3.0
 
@@ -446,5 +446,34 @@ static decrypt(from,size,key){
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5507&page=2)
 
-​	吐槽: 加了 **ASPack 2.12** 压缩壳,解题用的脱壳机(见目录下的 **WASPACK.exe**, 脱壳后的程序为 **_UnPacked.exze**). 解完题后越想越气,难道我就真的不会脱壳嘛???然后用上了万能的**ESP定律(即执行完压缩的函数过程后栈最后总是要回归平衡的)**,在执行载入 OD 的第一个 PUSHAD 的下一条 CALL指令时,对 ESP 下一个硬件断点,然后执行程序,终于让我找到了传说中的 OEP!!!那让我高兴的,然后我开心的把它 Dump 出来,载入 IDA 发现有些数据被我丢掉了......然后就各种查方法,全部失败( ITA 是什么完全不懂),花费了几个小时才让我明白我真的不行...:disappointed::disappointed::disappointed:
+​	吐槽: 加了 **ASPack 2.12** 压缩壳,解题用的脱壳机(见目录下的 **WASPACK.exe**, 脱壳后的程序为 **_UnPacked.exe**). 解完题后越想越气,难道我就真的不会脱壳嘛???然后用上了万能的**ESP定律(即执行完压缩的函数过程后栈最后总是要回归平衡的)**,在执行载入 OD 的第一个 PUSHAD 的下一条 CALL指令时,对 ESP 下一个硬件断点,然后执行程序,终于让我找到了传说中的 OEP!!!那让我高兴的,然后我开心的把它 Dump 出来,载入 IDA 发现有些数据被我丢掉了......然后就各种查方法,全部失败( ITA 是什么完全不懂),花费了几个小时才让我明白我真的不行...:disappointed::disappointed::disappointed:
+
+#### 第三十七题: Newbie_calculations
+
+​	难度系数: 3.0
+
+​	题目来源: Hack-you-2014
+
+​	用时: 50分7秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4973&page=2)
+
+​	吐槽: 伪代码不可靠,有时候还是要看汇编代码...
+
+```cpp
+// 伪代码生成
+signed int v4 = -1;
+int v5 = -1 - a2 + 1; // a2是一个输入,好像一直是正数输入
+while(v5)
+{
+    .....
+    --v5;
+}
+// 这样的程序必定爆炸
+// 但是如果是 
+// 看汇编代码联想
+unsigned int v4 = -1;
+unsigned int v5 = v4 - a2 + 1;
+// 结果一下就不一样了
+```
 
