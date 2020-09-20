@@ -477,5 +477,17 @@ unsigned int v5 = v4 - a2 + 1;
 // 结果一下就不一样了
 ```
 
+#### 第三十八题: easyre-153
 
+​	难度系数: 3.0
+
+​	题目来源: XCTF 3rd-RCTF-2017
+
+​	用时: 23分5秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4997&page=3)
+
+​	吐槽: flag_is_not_here
+
+![flag_is_not_here](./038-easyre-153/截图/结果.png)
 
