@@ -491,3 +491,14 @@ unsigned int v5 = v4 - a2 + 1;
 
 ![flag_is_not_here](./038-easyre-153/截图/结果.png)
 
+#### 第三十九题: key
+
+​	难度系数: 3.0
+
+​	题目来源: csaw-ctf-2016-quals
+
+​	用时: 47分26秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5006&page=3)
+
+​	吐槽: 看c++头晕,动态调试大法好!
