@@ -503,3 +503,16 @@ unsigned int v5 = v4 - a2 + 1;
 
 ​	吐槽: 看c++头晕,动态调试大法好!
 
+#### 第四十题: deedeedee
+
+​	难度系数: 3.0
+
+​	题目来源: csaw-ctf-2016-quals
+
+​	用时: 2分45秒(实际未完成)
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5004&page=3)
+
+​	吐槽: 程序是用[D语言](https://zh.wikipedia.org/wiki/D%E8%AA%9E%E8%A8%80)写的用时短是因为有给源码,本来是想过通过逆向的方式解题的,但是看了一眼函数我就放弃了,我还没见过这么多\*的参数(讲道理alias char[] string这个参数也不至于这么多\*呀....)......(生而为C艹程序员看不懂D语言,我很抱歉)
+
+![字符串](./040-deedeedee/截图/字符串.png)
