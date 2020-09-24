@@ -537,5 +537,17 @@ unsigned int v5 = v4 - a2 + 1;
 
 加上 0x403018 -> 0x402ff8 的偏移,我们的结果至少变得合理了(事实证明也是对的),我想这个程序里赌的不止我一个人吧,它能跑起来想必也有赌的成分吧....
 
+#### 第四十二题: notsequence
 
+​	难度系数: 3.0
+
+​	题目来源: RCTF-2015
+
+​	用时: 28分11秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4772&page=3)
+
+​	吐槽: 有数学基础应该就不用想那么久才想到是杨辉三角了...
+
+![分析](./042-notsequence/截图/分析.png)
 
