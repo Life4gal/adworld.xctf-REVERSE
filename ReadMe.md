@@ -591,3 +591,20 @@ unsigned int v5 = v4 - a2 + 1;
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4798&page=3)
 
+#### 第四十六题: BabyXor
+
+​	难度系数: 3.0
+
+​	题目来源: 2019_UNCTF
+
+​	用时: 50分17秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5575&page=3)
+
+​	吐槽: 这个壳脱得我不明不白...不过能分析就行了...
+
+![脱壳前](046-BabyXor/截图/脱壳前.png)
+
+![脱壳](046-BabyXor/截图/ESP定律脱壳.png)
+
+![脱壳后](046-BabyXor/截图/脱壳后.png)
