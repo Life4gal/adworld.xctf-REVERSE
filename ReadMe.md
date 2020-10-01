@@ -609,5 +609,17 @@ unsigned int v5 = v4 - a2 + 1;
 
 ![脱壳后](046-BabyXor/截图/脱壳后.png)
 
+#### 第四十七题: handcrafted-pyc
 
+​	难度系数: 4.0
+
+​	题目来源: HITCON-CTF-2016
+
+​	用时: 38分7秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4886&page=3)
+
+​	吐槽: 从各种意义上说,官方的(指攻防世界)WP写的和shit没什么差别...
+
+![code](./047-handcrafted-pyc/截图/code.png)
 
