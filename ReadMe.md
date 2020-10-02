@@ -623,3 +623,14 @@ unsigned int v5 = v4 - a2 + 1;
 
 ![code](./047-handcrafted-pyc/截图/code.png)
 
+#### 第四十八题: 梅津美治郎
+
+​	难度系数: 4.0 
+
+​	题目来源: 无(应该是XCTF)
+
+​	用时: 1时15分56秒(写了一小时的md...)
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5478&page=3)
+
+​	吐槽: 无力吐槽
