@@ -635,5 +635,15 @@ unsigned int v5 = v4 - a2 + 1;
 
 ​	吐槽: 无力吐槽
 
+#### 第四十九题: echo-server
 
+​	难度系数: 4.0
+
+​	题目来源: XCTF 3rd-NJCTF-2017
+
+​	用时: 46分45秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4968&page=3)
+
+​	吐槽: 整了几个小时的 libcrypto.so.1.0.0, 我的 Ubuntu/Kali/CentOS 都太新了,只有 libcrypto.so.1.0.2, 费尽脑子还是没解决....
 
