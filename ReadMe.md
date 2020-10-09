@@ -647,5 +647,44 @@ unsigned int v5 = v4 - a2 + 1;
 
 ​	吐槽: 整了几个小时的 libcrypto.so.1.0.0, 我的 Ubuntu/Kali/CentOS 都太新了,只有 libcrypto.so.1.0.2, 费尽脑子还是没解决....
 
+#### 第五十题: re5-packed-movement
+
+​	难度系数: 4.0
+
+​	题目来源: alexctf-2017
+
+​	用时: 1时21分51秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5034&page=3)
+
+​	吐槽: UPX加壳就不用说了,用了 movfuscator 来混淆, 我们可以使用暴力的方法来解决这个问题,也可以...噢不,只有暴力的方法
+
+> https://github.com/xoreaxeaxeax/movfuscator#faq
+>
+> - Q: Why did you make this? A: I thought it would be funny.
+
+> Being said that move instruction is enough to build a complete computer, anyway move on while you can.
+
+```asm
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+mov eax, offset aWrongFlag: "Wrong Flag!\n"
+xN
+好了,这下我们知道你每次比较都会调用一次错误输出了....
+```
+
+
+
+
+
 
 
