@@ -682,7 +682,19 @@ xN
 好了,这下我们知道你每次比较都会调用一次错误输出了....
 ```
 
+#### 第五十一题: The_Maya_Society
 
+​	难度系数: 4.0
+
+​	题目来源: Hack.lu-2017
+
+​	用时: 38分35秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4803&page=3)
+
+​	吐槽: 修改了硬件时间可是 Ubuntu 显示的时间还是没改,查了很久怎么改时间,最后还是动动鼠标点设置里修改的时间...
+
+![结果](./051-The_Maya_Society/截图/结果.png)
 
 
 
