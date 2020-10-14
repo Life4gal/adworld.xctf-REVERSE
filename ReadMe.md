@@ -704,6 +704,8 @@ xN
 
 ​	用时: 31分34秒
 
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4824&page=4)
+
 ​	吐槽: 原谅我居然想去脱 VMProtect (没遭受过毒打)壳,经过了超过十小时的无意义奋战之后,我放弃了,领略了社会的毒打...
 
 #### 第五十三题: 2ex1
@@ -713,6 +715,8 @@ xN
 ​	题目来源: CISCN-2018-Quals
 
 ​	用时: 59分47秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4857&page=4)
 
 ​	吐槽: 居然又是 MIPS ,体验了一下 [retdec](https://github.com/avast/retdec), 虽然不知道 LLVM 是什么,但是好像很厉害的样子. PS: 我曾在极度愤怒的情况下自己写了个 base64 加解密(因为居然没有可以自定义密码表的base64加解密在线网站). 
 
@@ -817,5 +821,13 @@ out = out[1:]
 print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 ```
 
+#### 第五十四题: asong
 
+​	难度系数: 4.0(2020-10-13还是5.0......)
+
+​	题目来源: XCTF 4th-QCTF-2018
+
+​	用时: 1时5分51秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4687&page=3)
 
