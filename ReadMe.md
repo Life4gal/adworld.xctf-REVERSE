@@ -842,3 +842,15 @@ print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5479&page=4)
 
 ​	吐槽: 没明白这道题目为什么可以有 5.0 难度,除去一个非常明显的花指令,其余的都是硬编码,慢慢算就可以了...(解题时间一大半花在写WP上了(习惯边解题边写WP),导致花的时间较多,结果这题不能上传WP,我炸了....)
+
+#### 第五十六题: first
+
+​	难度系数: 5.0
+
+​	题目来源: XCTF 3rd-NJCTF-2017
+
+​	用时: 41分39秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4969&page=4)
+
+​	吐槽: 一开始想着是 6 * 4 = 24 个字符,有 24! 种序列组合,直到我跑了个 MemoryError 后才幡然醒悟, 应该是 6! 种序列组合(每组四个字符之间的位置应该是不变的)
