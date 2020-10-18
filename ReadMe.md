@@ -854,3 +854,15 @@ print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4969&page=4)
 
 ​	吐槽: 一开始想着是 6 * 4 = 24 个字符,有 24! 种序列组合,直到我跑了个 MemoryError 后才幡然醒悟, 应该是 6! 种序列组合(每组四个字符之间的位置应该是不变的)
+
+#### 第五十七题: easyCpp
+
+​	难度系数: 5.0
+
+​	题目来源: 无
+
+​	用时: 1时10分13秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5475&page=4)
+
+​	吐槽: 没注意到输出后面有个 std::copy_if ,一直以为分析错了,然后在前面反复横跳......
