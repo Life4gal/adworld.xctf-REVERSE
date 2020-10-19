@@ -866,3 +866,17 @@ print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5475&page=4)
 
 ​	吐槽: 没注意到输出后面有个 std::copy_if ,一直以为分析错了,然后在前面反复横跳......
+
+#### 第五十八题: MyDriver2-397
+
+​	难度系数: 5.0
+
+​	题目来源: XCTF 3rd-RCTF-2017
+
+​	用时: 1时1分15秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4999&page=4)
+
+​	吐槽: 对驱动基本没有了解,仅限于入口是 DriverEntry ,误打误撞得到了结果...
+
+​	
