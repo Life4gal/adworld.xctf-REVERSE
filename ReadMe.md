@@ -879,7 +879,17 @@ print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 
 ​	吐槽: 对驱动基本没有了解,仅限于入口是 DriverEntry ,误打误撞得到了结果...
 
-​	
+#### 第五十九题: What-does-this-button-do
+
+​	难度系数: 5.0
+
+​	题目来源: tinyctf-2014
+
+​	用时: 7分46秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4752&page=4)
+
+​	吐槽: 上当了!居然是安卓!
 
 
 
