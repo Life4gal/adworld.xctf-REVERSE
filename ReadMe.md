@@ -891,5 +891,13 @@ print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 
 ​	吐槽: 上当了!居然是安卓!
 
+#### 第六十题: reverse-box
 
+​	难度系数: 5.0
+
+​	题目来源: mma-ctf-2nd-2016
+
+​	用时: 34分1秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5041&page=4)
 
