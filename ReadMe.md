@@ -913,3 +913,14 @@ print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 
 ​	吐槽: 欺负C艹程序员不会go?
 
+#### 第六十二题: tar-tar-binks
+
+​	难度系数: 5.0
+
+​	题目来源: csaw-ctf-2016-quals
+
+​	用时: 1时23分10秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=5008&page=4)
+
+​	吐槽: 一个换行秒杀了基本所有的WP...
