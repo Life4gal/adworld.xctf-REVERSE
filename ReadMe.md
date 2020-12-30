@@ -934,3 +934,13 @@ print(b64Decode(out, MyBase64Table, dontUseStandard=True))
 ​	用时: 19分3秒
 
 ​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4614&page=4)
+
+#### 第六十四题: pseudorandom
+
+​	难度系数: 5.0
+
+​	题目来源: nullcon-hackim-2016
+
+​	用时: 1时6分54秒
+
+​	原题链接: [传送门](https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4787&page=4)
